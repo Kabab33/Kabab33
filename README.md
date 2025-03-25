@@ -3,15 +3,15 @@
 ## Recent activity:
 dit is mijn recente activiteit op github
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#58](https://github.com/polarnl/PolarLearn/pull/58) in [polarnl/PolarLearn](https://github.com/polarnl/PolarLearn)<br>
-2. ⬆️ Pushed 2 commit(s) to [Kabab33/PolarLearn](https://github.com/Kabab33/PolarLearn)<br>
-3. ⬆️ Pushed 1 commit(s) to [Kabab33/PolarLearn](https://github.com/Kabab33/PolarLearn)<br>
-4. ⬆️ Pushed 1 commit(s) to [Kabab33/PolarLearn](https://github.com/Kabab33/PolarLearn)<br>
-5. ⬆️ Pushed 2 commit(s) to [Kabab33/PolarLearn](https://github.com/Kabab33/PolarLearn)<br>
+1. ⬆️ Pushed 1 commit(s) to [Kabab33/Kabab33](https://github.com/Kabab33/Kabab33)<br>
+2. ⬆️ Pushed 1 commit(s) to [Kabab33/Kabab33](https://github.com/Kabab33/Kabab33)<br>
+3. ⬆️ Pushed 1 commit(s) to [Kabab33/Kabab33](https://github.com/Kabab33/Kabab33)<br>
+4. ⬆️ Pushed 1 commit(s) to [Kabab33/Kabab33](https://github.com/Kabab33/Kabab33)<br>
+5. 💪 Opened PR [#58](https://github.com/polarnl/PolarLearn/pull/58) in [polarnl/PolarLearn](https://github.com/polarnl/PolarLearn)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 25th, 2025, 9:39:30 AM
+Last Updated: Tuesday, March 25th, 2025, 10:18:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ##  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kabab33&theme=nord_dark) 
