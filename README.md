@@ -3,15 +3,15 @@
 ## Recent activity:
 dit is mijn recente activiteit op github
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Kabab33/Kabab33.github.io](https://github.com/Kabab33/Kabab33.github.io)<br>
-2. ⬆️ Pushed 1 commit(s) to [Kabab33/Kabab33](https://github.com/Kabab33/Kabab33)<br>
+1. ⬆️ Pushed 1 commit(s) to [Kabab33/Kabab33.github.io](https://github.com/Kabab33/Kabab33.github.io)<br>
+2. ⬆️ Pushed 2 commit(s) to [Kabab33/Kabab33.github.io](https://github.com/Kabab33/Kabab33.github.io)<br>
 3. ⬆️ Pushed 1 commit(s) to [Kabab33/Kabab33](https://github.com/Kabab33/Kabab33)<br>
 4. ⬆️ Pushed 1 commit(s) to [Kabab33/Kabab33](https://github.com/Kabab33/Kabab33)<br>
 5. ⬆️ Pushed 1 commit(s) to [Kabab33/Kabab33](https://github.com/Kabab33/Kabab33)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 27th, 2025, 1:43:22 PM
+Last Updated: Thursday, March 27th, 2025, 2:16:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ##  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kabab33&theme=nord_dark) 
