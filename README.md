@@ -2,7 +2,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kabab33&theme=nord_dark) 
 ##  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kabab33&theme=nord_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kabab33&theme=nord_dark&utcOffset=2) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kabab33&theme=nord_dark&utcOffset=1) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kabab33&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kabab33&theme=nord_dark)
 ___
