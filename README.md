@@ -6,4 +6,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kabab33&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kabab33&theme=nord_dark)
 ___
-Contact: contact@kabab33.nl
+Send me an e-mail: kabab33@kabab33.nl  
+(No really send me an e-mail. It doesn't matter if it's interesting, [be **bold!**](https://en.wikipedia.org/wiki/WP:BB) Hell send me what you had for dinner! Just do it!)
